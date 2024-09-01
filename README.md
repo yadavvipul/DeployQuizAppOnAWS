@@ -3,6 +3,10 @@
 
 The task was to take Quiz Application and deploy it to AWS using a serverless architecture while utilizing Terraform to define the infrastructure as code (IAC). This approach allows for reproducible and version-controlled infrastructure deployment.
 
+## 🔗 Quiz-App Deployed Links 
+ http://quizappdeploytask.s3-website-us-east-1.amazonaws.com/
+
+
 
 
 ## Features
